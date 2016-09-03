@@ -11,9 +11,17 @@ comments: true
 
 ## About me
 
-<figure class="half">
+<figure class="half center">
 	<img src="/images/avatar.jpg" alt="">
 </figure>
+
+{% highlight html %}
+<figure class="half">
+	<img src="/images/image-filename-1.jpg" alt="">
+	<img src="/images/image-filename-2.jpg" alt="">
+	<figcaption>Caption describing these two images.</figcaption>
+</figure>
+{% endhighlight %}
 
 
 My name is Cuong Tran Viet. I graduated  Electronics and Telecommunications [FET](http://e.uet.vnu.edu.vn/taxonomy/term/5/27) at VNU University of Engineering and Technology. I love Electronics, technology, photography and guitar. I am a person who always opens to new, incredulous, curious and too often against the trend (the classical sheep that doesn’t want to follow the herd).
