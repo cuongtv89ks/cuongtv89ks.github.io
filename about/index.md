@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-description: "All about me, and my blog"
+description: "Sample Post with Feature Image"
 tags: [about]
 modified: 2016-06-30
 image:
