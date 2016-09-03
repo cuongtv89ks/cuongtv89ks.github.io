@@ -5,14 +5,14 @@ description: "All about me, and my blog"
 tags: [about]
 modified: 2016-06-30
 image:
-  feature: images\avatar.JPG
+  feature: images\avatar.jpg
 comments: true
 ---
 
 ## About me
 
 <figure class="half">
-	<img src="/images/avatar.JPG" alt="">
+	<img src="/images/avatar.jpg" alt="">
 </figure>
 
 
