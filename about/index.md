@@ -1,11 +1,11 @@
 ---
 layout: post
 title: About
-description: "Sample Post with Feature Image"
+description: "Hello!!! It's me"
 tags: [about]
 modified: 2016-06-30
 image:
-  feature: mapple.jpg
+  feature: favicon.png
 comments: true
 ---
 
