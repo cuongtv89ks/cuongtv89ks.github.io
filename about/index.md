@@ -28,11 +28,11 @@ My name is Cuong Tran Viet. I graduated  Electronics and Telecommunications [FET
 ---
 
 ## Contact
-Address: Room 1428, 1st Engineering Building, 1095 Dalgubeoldaero, Dalseo-Gu, Daegu 704-701, Korea
+* Address: Room 1428, 1st Engineering Building, 1095 Dalgubeoldaero, Dalseo-Gu, Daegu 704-701, Korea
 
-Tel: +82-53-580-5924 Mobile: +82-10-6865-1512
+* Tel: +82-53-580-5924 Mobile: +82-10-6865-1512
 
-email: vietcuong89ks@gmail.com
+* email: [vietcuong89ks@gmail.com](vietcuong89ks@gmail.com)
 
 ---
 
