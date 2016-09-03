@@ -5,7 +5,7 @@ description: "Sample Post with Feature Image"
 tags: [about]
 modified: 2016-06-30
 image:
-  feature: avatar1.jpg
+  feature: mapple.jpg
 comments: true
 ---
 
