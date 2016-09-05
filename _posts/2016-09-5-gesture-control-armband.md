@@ -4,6 +4,8 @@ title: Gesture Control Armband
 description: "Using EMG and IMU"
 tags: [Project]
 categories: [Project]
+image:
+    feature: "images/EMG_IMU_Project/device.jpg"
 ---
 
 ## Introduction
