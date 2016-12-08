@@ -5,14 +5,14 @@ description: "An open source ecosystem for IoT development. This is cross platfo
 tags: [tools, platformio]
 categories: [Project]
 image:
-    feature: platformio.jpeg
+    feature: platformio.JPG
 ---
 
 I have had to work on quite lots of embedded platforms like Arduino, mbed, PIC32, Raspberry Pi... and develop them on Window as well as Linux. It is really inconvenient to me because each platform has each IDE to develop, and for some platforms its IDE is quite poor comparing with Text Editor (Atom, Vim, Sublime, Emacs) and I have to change environments many times.
 Fortunately, I found this one as the best solution at this time, [PlatformIO](http://platformio.org/). It is an open source ecosystem for "IoT" development and cross platform code builder and library manager with a lot of development platforms and frameworks ([check here](http://platformio.org/platforms/atmelavr)):
 
 <figure class="half center">
-	<img src="/images/platformio/2.jpg" alt="">
+	<img src="/images/platformio/2.JPG" alt="">
 </figure>
 
 * Colourful command-line output
@@ -23,7 +23,7 @@ Fortunately, I found this one as the best solution at this time, [PlatformIO](ht
 * Pre-built toolchains, frameworks for the popular Hardware Platforms
 
 <figure class="half center">
-	<img src="/images/platformio/3.jpg" alt="">
+	<img src="/images/platformio/3.JPG" alt="">
 </figure>
 
 * Friendly Comaand-Line Interface
@@ -33,7 +33,7 @@ Fortunately, I found this one as the best solution at this time, [PlatformIO](ht
 * Automatic library updating
 
 <figure class="half center">
-	<img src="/images/platformio/4.jpg" alt="">
+	<img src="/images/platformio/4.JPG" alt="">
 </figure>
 
 ## How to build PlatformIO based project
