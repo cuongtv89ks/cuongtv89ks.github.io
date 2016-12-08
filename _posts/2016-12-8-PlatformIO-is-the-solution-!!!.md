@@ -32,12 +32,13 @@ Fortunately, I found this one as the best solution at this time, [PlatformIO](ht
 * Library dependency management
 * Automatic library updating
 
-<figure class="half center">
+<figure>
 	<img src="/images/platformio/4.JPG" alt="">
 </figure>
 
 ## How to build PlatformIO based project
-### Arduino Uno
+
+###  Arduino Uno
 
 #### 1. Make a new project directory and initialize an empty project
 {% highlight yaml %}
@@ -47,6 +48,7 @@ platformio init
 {% endhighlight %}
 
 This will create:
+
 * /src
 * /lib
 * platformio.ini
