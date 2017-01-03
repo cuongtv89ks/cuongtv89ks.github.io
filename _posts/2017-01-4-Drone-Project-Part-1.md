@@ -5,7 +5,7 @@ description: "Drones have huge potential for industrial and military application
 tags: [Drone]
 categories: [Project]
 image:
-    feature: drone_project.JPG
+    feature: drone_project.jpg
 ---
 
 When I was a undergraduate student, I saw my seniors played and tried to make something flied.
@@ -22,13 +22,13 @@ I will update processes in this blog.
 
 Below that is my list I have chosen for building a quadcopter:
 
-<figure class="half center">
+<figure>
 	<img src="/images/drone_project/drone_components.JPG" alt="">
 </figure>
 
 ### Frame + Motors + ESC (Kits)
 
-<figure class="half center">
+<figure>
 	<img src="/images/drone_project/F450-Kit.jpg" alt="">
 </figure>
 
