@@ -58,6 +58,7 @@ I chose to use is F450 DJI kit with:
 </figure>
 
 [BNO055](https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview) Intelligent 9-Axis Absolute Orientation Sensor:
+
 * integrating a triaxial 14-bit accelerometer
 * a triaxial 16-bit gyroscope with a range of ±2000 degrees per second
 * Magnetometer typical ±1300μT (x-, y-axis); ±2500μT (z-axis)
