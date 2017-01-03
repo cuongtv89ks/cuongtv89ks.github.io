@@ -20,7 +20,7 @@ I will update processes in this blog.
 
 ## Quadcopter parts
 
-Below that is my list I have chosen for building a quadcopter:
+Here is my list I have chosen for building a quadcopter:
 
 <figure>
 	<img src="/images/drone_project/drone_components.JPG" alt="">
