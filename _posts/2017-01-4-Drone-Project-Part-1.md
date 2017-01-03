@@ -72,6 +72,7 @@ I chose to use is F450 DJI kit with:
 </figure>
 
 FS-i6 Specifications:
+
 * Channels: 6 Channels
 * Model Type: Glider/Heli/Airplane
 * RF Range: 2.40-2.48GHz
