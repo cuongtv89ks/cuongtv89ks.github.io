@@ -34,6 +34,7 @@ Here is my list I have chosen for building a quadcopter:
 
 
 I chose to use is F450 DJI kit with:
+
 * Frame (282g)
 * Flame wheel integrated PCB wiring
 * 2312E 960KV Motors
