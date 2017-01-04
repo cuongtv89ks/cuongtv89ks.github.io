@@ -9,12 +9,12 @@ image:
 ---
 
 When I was a undergraduate student, I saw my seniors played and tried to make something flied.
-At that time, I don't know what is it and how it could fly. And they just said to me that I called something is Drone.
+At that time, I don't know what it is and how it could fly. And they just said to me that I called something is Drone.
 With propellers, motors, MCU, controller, gyro & accelerometer, they said in detailed, of course, at 2nd-year I can not understand
-anything about these components or devices. Just something can fly. And it made me curious and excited. Until now, I have a chance to
-make it for my own.
+anything about these components or devices. Just something can fly. It has been making me curious and excited. Until now, I have a chance to
+build it for my own.
 
-There are a lot of drone projects with open source even open hardware for users. However, this project I hope I can build a quadcopter by my self. Additionally, this project is relative with my master thesis that I am researching about using ring gesture control device to control drone.
+There are a lot of drone projects with open source even open hardware for users. However, this project I hope I can build a quadcopter by my self. Additionally, this project is relative with my master thesis that I am researching about using a ring gesture control device to control drone.
 
 I will update processes in this blog.
 
@@ -38,7 +38,7 @@ I chose to use is F450 DJI kit with:
 * Frame (282g)
 * Flame wheel integrated PCB wiring
 * 2312E 960KV Motors
-* 420E ESC (Electric Speed Control)
+* 420E ESC (Electronic Speed Control)
 * Propellers 10 x 4.5in ; 8 x 4.5in
 
 ### MCU - LPC1768
@@ -115,7 +115,7 @@ Camera ELITE QB58 TX CAMERA COMBO:
 	<img src="/images/drone_project/crazyflie.png" alt="">
 </figure>
 
-This one is for my backup in case I can not finish this project on the time. Then I have to change to this platform to be flight controller (MCU, IMU, Controller). [Crazyflie](https://www.bitcraze.io/) is really interesting open source project with Python API for users want to embedded their purposes.
+This one is for my backup in case I can not finish this project on the time. Then I have to change to this platform to be flight controller (MCU, IMU, Controller). [Crazyflie](https://www.bitcraze.io/) is really a interesting open source project with Python API for users want to embedded their purposes.
 
 ### GPS (optional)
 If possible I will make an auto-pilot mode with GPS module for my quadcopter.
