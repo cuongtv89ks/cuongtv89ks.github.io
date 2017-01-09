@@ -10,8 +10,7 @@ image:
 
 As [part 1](http://cuongtv.com/project/Drone-Project-Part-1/) introduced about
 necessary components to build a quadcopter. Today, I will talk about basic knowledge
-that I accumulated on the internet. It is not in detailed about hardware part, I
-try to force on software part.
+that I accumulated on the internet. 
 
 ## Orientation - Angles
 <figure class="center">
@@ -62,7 +61,7 @@ Moving down when all motors are at normal speed (or with lower speed than quadco
 ## Quadcopter Flowchart
 This is a flowchart for quadcopter programing that I will follow this reference:
 <figure class="center">
-	<img src="/images/drone_project/flowchart.JPG" alt="">
+	<img src="/images/drone_project/flowchart.jpg" alt="">
 </figure>
 
 ### PWM Decoder Driver:
