@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basic knowledge about quadcopter (part 2)
-description: "This part will talk about basic knowledge that I accumulated to prepared for building my own quadcopter"
+description: "This part will talk about basic knowledge that I accumulated to prepar for building my own quadcopter"
 tags: [Drone]
 categories: [Project]
 image:
