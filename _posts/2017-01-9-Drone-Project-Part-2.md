@@ -52,11 +52,11 @@ Quadcopter motion in different axis:
 </figure>
 
 
-* Throttle control: Quadcopter moves up when all motors are at high speed.
-Moving down when all motors are at normal speed (or with lower speed than quadcopter moves up).
-* Pitch control: Quadcopter moves forward when 2 front motors are at high speed and 2 back motors are at normal speed. Revert with the quadcopter moves backward.
-* Roll control: Quadcopter bend left when 2 left motors are at high speed and 2 right motors are at normal speed. Quadcopter bends right when 2 right motors are at high speed and 2 left motors are at normal speed.
-* Yaw control: Quadcopter rotates left when front right motor and back left motor are at high speed and rest motors are at normal speed. Quadcopter rotates right when front left motor and back right motor are at high speed and rest motors are at normal speed.
+* Throttle control: Quadcopter moves up when you increase speed all motors.
+Moving down when you decrease all motors.
+* Pitch control: Quadcopter moves forward when you increase 2 front motors and decrease 2 back motors. Revert with the quadcopter moves backward.
+* Roll control: Quadcopter bend left when you increase speed 2 right motors and decrease speed 2 left motors. Vice versa for bending right
+* Yaw control: Quadcopter rotates left when you increase speed front right motor and back left and rest motors are decreased. Quadcopter rotates right when you speed up front left motor and back right motor and rest motors are at normal speed.
 
 ## Quadcopter Flowchart
 This is a flowchart for quadcopter programing that I will follow this reference:
