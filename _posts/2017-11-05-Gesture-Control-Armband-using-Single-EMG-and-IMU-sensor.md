@@ -13,7 +13,7 @@ Video Demo
 
 
 {::nomarkdown}
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PC6AopXy3LM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PC6AopXy3LM" frameborder="0" allowfullscreen></iframe>
 {:/nomarkdown}
 
 ## System Design and implementation
