@@ -15,27 +15,96 @@ comments: true
 	<img src="/images/avatar.jpg" alt="">
 </figure>
 
-My name is Cuong Tran Viet. I graduated  Electronics and Telecommunications [FET](http://e.uet.vnu.edu.vn/taxonomy/term/5/27) at VNU University of Engineering and Technology. I love Electronics, technology, photography and guitar. I am a person who always opens to new, incredulous, curious and too often against the trend (the classical sheep that doesn’t want to follow the herd).
+Johnny Coder
+============
 
-* 2016-08: [Gesture Control Armband project](https://www.youtube.com/watch?v=PC6AopXy3LM) and exhibited at [IMMA festival](http://immafest.org/).
-* 2016-03: Doing master at Keimyung University and researcher at USNLAB
-* 2015: Korean Language Topik Level 3
-* 2014 I got KGSP schlarship ([Korean Gorvernment Scholarship Program](http://www.niied.go.kr/eng/contents.do?contentsNo=78&menuNo=349)) for higher education.
-* 2011 - 2014 I worked in [Hanel Professional Electronics JSC](http://www.hpe.vn/?ui=desktop).
-* 2011 My graduation thesis "Building system measure and control using Power Line Communication technology, standard Lonworks" ([Video](https://youtu.be/JJyp_-AzI58)) under supervisions Dr. Nguyen Thang Long.
-* 2007 I enrolled in the Electronics and Telecommunications at Vietnam National University.
+-------------------     ----------------------------
+1 MyAddress                        email@example.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
 
----
+Education
+---------
 
-## Contact
-* Address: Room 1428, 1st Engineering Building, 1095 Dalgubeoldaero, Dalseo-Gu, Daegu 704-701, Korea
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
 
-* Tel: +82-53-580-5924 Mobile: +82-10-6865-1512
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
 
-* email: [vietcuong89ks@gmail.com](vietcuong89ks@gmail.com)
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
 
----
+    *Minor: Awesomeology*
 
-## About the blog
+Experience
+----------
 
-I created this site for my hobbits that simply writing whatever I want. I write about what I learn, my project, photography, guitar, Korean life, etc. At the beginning, I thought that just google blog or wordpress is enough to me, then one of my friends recommended to me using [github](https://github.com). I realized Github and Jekyll are a good choice. Because I like the idea of writing up by markdown file in favorite text editor ([Atom](https://atom.io/)), and of course, the speed and simplicy of having a static (through javascript powered) website on a free server rather than log in to a slower web browser (comparision with github) based interface of Wordpress or Google Blog, is hosted on free server, running PHP to dynamically creat my HTML. Furthermore, this website is my CV online. It is not only for recording my attempts, but also sharing what I know is the better way to learn.
+**Your Most Recent Work Experience:**
+
+Short text containing the type of work done, results obtained,
+lessons learned and other remarks. Can also include lists and
+links:
+
+* First item
+
+* Item with [link](http://www.example.com). Links will work both in
+  the html and pdf versions.
+
+**That Other Job You Had**
+
+Also with a short description.
+
+Technical Experience
+--------------------
+
+My Cool Side Project
+:   For items which don't have a clear time ordering, a definition
+    list can be used to have named items.
+
+    * These items can also contain lists, but you need to mind the
+      indentation levels in the markdown source.
+    * Second item.
+
+Open Source
+:   List open source contributions here, perhaps placing emphasis on
+    the project names, for example the **Linux Kernel**, where you
+    implemented multithreading over a long weekend, or **node.js**
+    (with [link](http://nodejs.org)) which was actually totally
+    your idea...
+
+Programming Languages
+:   **first-lang:** Here, we have an itemization, where we only want
+    to add descriptions to the first few items, but still want to
+    mention some others together at the end. A format that works well
+    here is a description list where the first few items have their
+    first word emphasized, and the last item contains the final few
+    emphasized terms. Notice the reasonably nice page break in the pdf
+    version, which wouldn't happen if we generated the pdf via html.
+
+:   **second-lang:** Description of your experience with second-lang,
+    perhaps again including a [link] [ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file).
+
+:   **obscure-but-impressive-lang:** We both know this one's pushing
+    it.
+
+:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+
+[ref]: https://github.com/githubuser/superlongprojectname
+
+Extra Section, Call it Whatever You Want
+----------------------------------------
+
+* Human Languages:
+
+     * English (native speaker)
+     * ???
+     * This is what a nested list looks like.
+
+* Random tidbit
+
+* Other sort of impressive-sounding thing you did
