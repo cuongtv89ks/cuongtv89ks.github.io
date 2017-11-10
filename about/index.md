@@ -26,14 +26,12 @@ Education
 =========
 
 #### 2016 – 2018(expected):
-:    **Keimyung University**
-        * M.s., Electrical and Electronics Engineering.
-        * Thesis: Smart Wearable controlling system by hand fingers gesture recognition.
+:   **M.s., Electrical and Electronics Engineering.**; Keimyung University
+    **Thesis**: *Smart Wearable controlling system by hand fingers gesture recognition.*
 
 #### 2007 – 2011:
-:   **Vietnam National University – University of Engineering and Technology**
-	* B.A in Electronics and Communications
-	* Thesis: Building system measure and control using Power Line Communication technology, Standard Lonworks
+:   **B.A in Electronics and Communications**, Vietnam National University – University of Engineering and Technology
+	**Thesis**: *Building system measure and control using Power Line Communication technology, Standard Lonworks*
 
 Publication
 ===========
