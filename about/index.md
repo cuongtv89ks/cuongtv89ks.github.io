@@ -27,12 +27,12 @@ Education
 =========
 
 #### 2016 – 2018(expected):
-    **M.s., Electrical and Electronics Engineering**; Keimyung University.
-    **Thesis**: *Smart Wearable controlling system by hand fingers gesture recognition.*
+* **M.s., Electrical and Electronics Engineering**; Keimyung University.
+* **Thesis**: *Smart Wearable controlling system by hand fingers gesture recognition.*
 
 #### 2007 – 2011:
-    **B.A in Electronics and Communications**, Vietnam National University – University of Engineering and Technology
-    **Thesis**: *Building system measure and control using Power Line Communication technology, Standard Lonworks*
+* **B.A in Electronics and Communications**, Vietnam National University – University of Engineering and Technology
+* **Thesis**: *Building system measure and control using Power Line Communication technology, Standard Lonworks*
 
 Publication
 ===========
@@ -55,11 +55,11 @@ Project and Research experience
 Working experience
 ==================
 #### 03/2016 - current:
-    **Researcher**, USNLAB, Keimyung University
+* **Researcher**, USNLAB, Keimyung University
 #### 08/2011 - 07/2014:
-    **Project Executive**, [Hanel Professional Electronics JSC]()
+* **Project Executive**, [Hanel Professional Electronics JSC]()
 #### 08/2010 – 04/2011:
-    **Internship (embedded system C/C++)**, [FPT software]()
+* **Internship (embedded system C/C++)**, [FPT software]()
 
 Awards
 ======
