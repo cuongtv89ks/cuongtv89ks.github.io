@@ -9,7 +9,7 @@ image:
 ---
 This project is focused to develop a wearable device system to recognize hand gestures in real-time that utilizes a single surface electromyogram (EMG) sensor positioned on the forearm and an inertial measurement unit (IMU - accelerometer and gyroscope) to realize user-friendly interaction between human and computers. We analyze the EMG signals coming from seven different subjects using a novel integration of wavelet and K-nearest Neighbor (KNN). The efficiency of wavelet transform in surface EMG feature extraction is investigated from 3 levels of wavelet decomposition to common statistical features such as mean, root square mean, and standard deviation. KNN classifier is used to recognize 3 gestures (hand close, hand open and hand extension). IMU streams are utilized as decision fusion method to recognize the hand movements. Overall, results revealed the true accuracy of 3 gestures detection is greater than 95% in average by using the KNN classifier. The performance of the interfacing system was evaluated by camera controller application that is controlled by the hand gestures and hand movements. The proposed method facilitates intelligent and natural control based on gesture interaction.
 
-Video Demo
+**Video Demo**
 
 
 {::nomarkdown}
