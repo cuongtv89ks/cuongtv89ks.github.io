@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Smart Wearable Body Equilibrium Correction System with Mobile Device
+title: Smart Wearable Controlling System by Hand and Fingers Gesture Recognition
 description: "In recent decades, employees who worked in office suffered from bone diseases and muscle stress, mainly due to improper sitting posture. This study is proposed to develop a novel body equilibrium correction to meet solve such issue."
 tags: [healthcareSystem]
 categories: [Project]
