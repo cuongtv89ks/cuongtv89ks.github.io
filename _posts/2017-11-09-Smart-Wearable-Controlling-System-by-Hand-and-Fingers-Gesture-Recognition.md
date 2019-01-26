@@ -11,9 +11,8 @@ image:
 In this project, a smart wearable controlling system by hand and fingers gesture recognition as home appliances controller is developed on movements of hand and fingers. The proposed smart wearable system is built with least sensors possible for gesture recognition. Thus, motion sensors are placed on two fingers, namely the thumb, index finger to detect fingers’ motions and another sensor at the back of the palm to measure the hand movement. Total of twenty-two gestures are used in this study by analyzing the movements of fingers. The motion sensors data are transmitted to the mobile device through Bluetooth. An application is built by Qt cross-platform and deployed into mobile device (various platform) to detect and stimulate the effectiveness of the gestures recognition by the embedded n-dimension dynamic time warping (ND-DTW) classifier. The proposed smart wearable system was able to detect the gestures at mean accuracy of approximately 97.55%.
 
 **Video Demo**
-{::nomarkdown}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xYD6fA76y_g" frameborder="0" allowfullscreen></iframe>
-{:/nomarkdown}
 
 ## System Design
 
