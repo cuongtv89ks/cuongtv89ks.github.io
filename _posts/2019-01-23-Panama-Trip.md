@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Panama Trip
-description: "Panama là đất nước nối bắc Mỹ và nam Mỹ"
+description: "Panama là một đất nước nhỏ nằm ở trung Mỹ, nối Bắc Mỹ và Nam Mỹ, cũng như Thái Bình Dương và Đại Tây Dương. Là địa điểm lý tưởng để trải nghiệm về con người Mỹ Latin."
 tags: [Travel]
 categories: [Diary]
 image:
