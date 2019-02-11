@@ -28,6 +28,8 @@ I will use these axes as reference:
 	<img src="/images/drone_project/reference.gif" alt="">
 </figure>
 
+<!-- more -->
+
 ## Quadcopter motion
 
 There are 2 kinds of quadcopter configuration: + and X with  clockwise rotation

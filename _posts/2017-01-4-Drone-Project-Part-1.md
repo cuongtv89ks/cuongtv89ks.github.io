@@ -18,6 +18,8 @@ There are a lot of drone projects with open source even open hardware for users.
 
 I will update process in this blog.
 
+<!-- more -->
+
 ## Quadcopter parts
 
 Here is my list I have chosen for building a quadcopter:

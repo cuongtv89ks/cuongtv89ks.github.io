@@ -17,6 +17,8 @@ Khi đến Panama, ngoài kênh đào Panama mọi người nghĩ đến những
 
 Và đây là 2 ngày mình khám phá Panama.
 
+<!-- more -->
+
 ## Kênh đào Panama
 <figure class="half center">
 	<img src="/images/panama_trip/Panama_Canal_Map_EN.png" alt="">

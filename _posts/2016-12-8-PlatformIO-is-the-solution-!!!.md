@@ -15,6 +15,8 @@ Fortunately, I found this one as the best solution at this time, [PlatformIO](ht
 	<img src="/images/platformio/2.JPG" alt="">
 </figure>
 
+<!-- more -->
+
 * Colourful command-line output
 * IDE Integration with Arduino, Atom, CLion, Eclipse, Emacs, Energia, Qt Creator, Sublime, Vim, even Visual Studio
 * Cloud compiling and Continous Integration with AppVeyor, Circle CI, Drone, Shipable

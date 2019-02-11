@@ -11,6 +11,8 @@ For making my apartment more comfortable, without a PhD in computer science ling
 
 It is divided into 3 modules. There are Jarvis's Ears (for recognizing the speech) and Jarvis's Mouth (for speaking what she wants to say ^^!) and API or modules that support for home automation and IoT
 
+<!-- more -->
+
 ## Jarvis's Ears: Speech Recognition
 
 [Speech Recognition](https://pypi.python.org/pypi/SpeechRecognition) is library for performing speech recognition, with support for several engines and APIs, online and offline (CMU Sphinx, Google Speech Recognition, Wit.ai, Microsoft Bing Voice Recognition, Houndify API, IBM Speech To Text).

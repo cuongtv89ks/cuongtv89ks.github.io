@@ -16,6 +16,8 @@ This project is focused to develop a wearable device system to recognize hand ge
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PC6AopXy3LM" frameborder="0" allowfullscreen></iframe>
 {:/nomarkdown}
 
+<!-- more -->
+
 ## System Design and implementation
 Here, the system overview design and experiments setup are being discussed (Figure 1). The proposed system is divided into two parts that are (1) hand gesture and movement acquisition module on the wearable armband, and (2) gestures analysis module by end terminal application.
 <figure>
