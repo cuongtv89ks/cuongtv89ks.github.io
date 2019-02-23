@@ -12,6 +12,8 @@ In recent decades, employees who worked in office suffered from bone diseases an
 
 The proposed system tends to utilize the m-Health technology to evaluate the correctness of the subject’s sitting posture based on the analysis of the muscle tension and body orientation. Features are extracted from the EMGs and motion sensors which are served as inputs to a support vector machine (SVM) classifier. Information of current sitting posture is displayed on the mobile device concurrently and warning is triggered if incorrect posture is detected.
 
+...
+
 <!-- more -->
 
 ## System Design

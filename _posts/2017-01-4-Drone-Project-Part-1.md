@@ -16,7 +16,7 @@ build it for my own.
 
 There are a lot of drone projects with open source even open hardware for users. However, this project I hope I can build a quadcopter by my self. Additionally, this project is relative with my master thesis that I am researching about using a ring gesture control device to control drone.
 
-I will update process in this blog.
+I will update process in this blog.\.
 
 <!-- more -->
 

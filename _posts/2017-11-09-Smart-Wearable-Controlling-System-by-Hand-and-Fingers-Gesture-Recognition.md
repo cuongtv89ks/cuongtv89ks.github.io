@@ -14,6 +14,8 @@ In this project, a smart wearable controlling system by hand and fingers gesture
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xYD6fA76y_g" frameborder="0" allowfullscreen></iframe>
 
+...
+
 <!-- more -->
 
 ## System Design

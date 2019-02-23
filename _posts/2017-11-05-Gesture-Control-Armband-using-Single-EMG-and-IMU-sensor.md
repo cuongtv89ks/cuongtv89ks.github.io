@@ -16,6 +16,8 @@ This project is focused to develop a wearable device system to recognize hand ge
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PC6AopXy3LM" frameborder="0" allowfullscreen></iframe>
 {:/nomarkdown}
 
+...
+
 <!-- more -->
 
 ## System Design and implementation
