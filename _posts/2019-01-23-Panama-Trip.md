@@ -37,7 +37,7 @@ Bắt nguồn từ ý tưởng của một con kênh đào từ thế kỷ thứ
 
 Sau đó vào năm 1903 người Mỹ tiếp tục công việc, họ đã khắc phục những khó khăn mà người Pháp gặp và hoàn thành vào năm 1914. Và từ đó đến nay kênh đào này được đưa vào hoạt động. Tuy nhiên phải cho đến năm 1999 thì người Panama mới có thể toàn quyền quản lý kênh đào này sau bao nhiêu năm đàm phán với Mỹ. Và điều này làm cho người dân nơi đây rất tự hào khi họ nói họ làm việc cho kênh đào này.
 
-<figure class="half center">
+<figure>
 	<img src="/images/panama_trip/miraflores_ship.jpg" alt="">
     <figcaption>Tàu qua điểm Miraflores.</figcaption>
 </figure>
