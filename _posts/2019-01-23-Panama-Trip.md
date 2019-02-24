@@ -15,6 +15,11 @@ Khi đến Panama, ngoài kênh đào Panama mọi người nghĩ đến những
 	<img src="/images/panama_trip/panama.jpg" alt="">
 </figure>
 
+<figure>
+	<img src="/images/panama_trip/panama.jpg" alt="">
+    <figcaption><a title="Coastal Way in Panama City"> Coastal Way in Panama City.</a></figcaption>
+</figure>
+
 Và đây là 2 ngày mình khám phá Panama.\.
 
 <!-- more -->
