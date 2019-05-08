@@ -22,19 +22,20 @@ Tran, Viet Cuong
 
 Profile
 =======
-**·Strategic Planning      ·Research & Development    · Teamwork**
-
-**·Technical Leadership    · Analytical Thinking      · Problem Solving**
+* Strategic Planning      
+* Research & Development    
+* Teamwork
+* Technical Leadership    
+* Analytical Thinking      
+* Problem Solving
 
 Embedded Engineer with over 5 years’ experience and strong technical/coding background who plays a
 key part in developing and documenting embedded software and hardware for prototypes and product
 from release to production
 
 Working experience
-==================
-#### Jan ‘18 – Present: Olive Union, Seoul, Korea (start-up)          
-
-**Embedded Engineer**
+==================          
+**Jan ‘18 – Present: Embedded Engineer at Olive Union, Seoul, Korea (start-up)**
 
 Smart Hearing Aid (www.oliveunion.com): integrated smart sound algorithms and Bluetooth earpiece
 technology.
@@ -48,23 +49,18 @@ technology.
 * Audio testing and experimenting for hearing aid
 * Developed an in house app for iOS to quickly test and modify features for mobile app.
 
-
-#### Mar ‘16 – Dec ‘17: USNLAB - Keimyung University, Daegu, Korea
-
-**Research Engineer***
+**Mar ‘16 – Dec ‘17: Research Engineer at USNLAB - Keimyung University, Daegu, Korea***
 
 Researched and designed embedded hardware and software systems:
 * [Smart wearable controlling system by hand fingers gesture recognition]()
 * [Smart Mirror for applying the IoT technology with Artik platform]()
 * [Gesture control armband using single EMG and IMU sensor](http://cuongtv.com/project/Gesture-Control-Armband-using-Single-EMG-and-IMU-sensor/)
 * [Smart wearable body equilibrium correction system with mobile device](http://cuongtv.com/project/Smart-Wearable-Body-Equilibrium-Correction-System-with-Mobile-Device/)
+
 **Utilized:** OpenCV, Machine Learning, Amazon Cloud AWS, Python, C/C++, Qt (cross platform), Arduino,
-Signal Processing, Healthcare Sensors (EMG, PPG, GSR, EEG, ECG, IMU), Linux Embedded Platforms
+Signal Processing, Healthcare Sensors (EMG, PPG, GSR, EEG, ECG, IMU), Linux Embedded Platforms  
 
-
-#### Aug ‘11 - Jul ‘14: Hanel Professional Electronics JSC, Hanoi, Vietnam  
-
-**Project Executive**
+**Aug ‘11 - Jul ‘14: Project Executive at Hanel Professional Electronics JSC, Hanoi, Vietnam**
 
 Consulting, designing, providing solutions:
 * Smart City: Lighting management and control system
@@ -75,11 +71,11 @@ shape and color
 Education
 =========
 
-#### Mar ‘16 – Feb’ 18: M.s in Electrical and Electronics Engineering, Keimyung University         
-**Thesis**: *Smart Wearable controlling system by hand fingers gesture recognition.* [(demo)](https://www.youtube.com/watch?v=xYD6fA76y_g)
+**Mar ‘16 – Feb’ 18: M.s in Electrical and Electronics Engineering, Keimyung University**        
+* **Thesis**: *Smart Wearable controlling system by hand fingers gesture recognition.* [(demo)](https://www.youtube.com/watch?v=xYD6fA76y_g)
 
-#### Sep ’07 – Jun ‘11: B.s in Electronics and Telecommunications, Vietnam National University     
-**Thesis**: *Building system measure and control using Power Line Communication technology, Standard Lonworks* [(demo)](https://www.youtube.com/watch?v=JJyp_-AzI58&feature=youtu.be)
+**Sep ’07 – Jun ‘11: B.s in Electronics and Telecommunications, Vietnam National University**     
+* **Thesis**: *Building system measure and control using Power Line Communication technology, Standard Lonworks* [(demo)](https://www.youtube.com/watch?v=JJyp_-AzI58&feature=youtu.be)
 
 Publication
 ===========
