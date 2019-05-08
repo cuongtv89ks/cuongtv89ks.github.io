@@ -18,18 +18,24 @@ Tran, Viet Cuong
 ================
 * Email: [vietcuong89ks@gmail.com](vietcuong89ks@gmail.com)
 * Github: [wwww.github.com/cuongtv89ks](https://github.com/cuongtv89ks)
+* PDF file: [CV]()
 
 Profile
 =======
-· **Strategic Planning        · Research & Development    · Teamwork
-· Technical Leadership      · Analytical Thinking       · Problem Solving**
+**·Strategic Planning      ·Research & Development    · Teamwork**
+
+**·Technical Leadership    · Analytical Thinking      · Problem Solving**
+
 Embedded Engineer with over 5 years’ experience and strong technical/coding background who plays a
 key part in developing and documenting embedded software and hardware for prototypes and product
 from release to production
 
 Working experience
 ==================
-#### Embedded Engineer       Olive Union, Seoul, Korea (start-up)               Jan ‘18 – Present
+#### Jan ‘18 – Present: Olive Union, Seoul, Korea (start-up)          
+
+**Embedded Engineer**
+
 Smart Hearing Aid (www.oliveunion.com): integrated smart sound algorithms and Bluetooth earpiece
 technology.
 * Wrote maintainable and extensible code for CSR8765 & QCC5120 (Qualcomm audio Bluetooth chips).
@@ -43,7 +49,10 @@ technology.
 * Developed an in house app for iOS to quickly test and modify features for mobile app.
 
 
-#### Research Engineer      USNLAB - Keimyung University, Daegu, Korea          Mar ‘16 – Dec ‘17
+#### Mar ‘16 – Dec ‘17: USNLAB - Keimyung University, Daegu, Korea
+
+**Research Engineer***
+
 Researched and designed embedded hardware and software systems:
 * [Smart wearable controlling system by hand fingers gesture recognition]()
 * [Smart Mirror for applying the IoT technology with Artik platform]()
@@ -53,7 +62,10 @@ Researched and designed embedded hardware and software systems:
 Signal Processing, Healthcare Sensors (EMG, PPG, GSR, EEG, ECG, IMU), Linux Embedded Platforms
 
 
-#### Project Executive      Hanel Professional Electronics JSC, Hanoi, Vietnam  Aug ‘11 - Jul ‘14
+#### Aug ‘11 - Jul ‘14: Hanel Professional Electronics JSC, Hanoi, Vietnam  
+
+**Project Executive**
+
 Consulting, designing, providing solutions:
 * Smart City: Lighting management and control system
 * Educational Robotics for Thai Nguyen University of Technology: Object sorting ABB Robot based on
@@ -63,10 +75,10 @@ shape and color
 Education
 =========
 
-#### M.s in Electrical and Electronics Engineering, Keimyung University         Mar ‘16 – Feb’ 18
+#### Mar ‘16 – Feb’ 18: M.s in Electrical and Electronics Engineering, Keimyung University         
 **Thesis**: *Smart Wearable controlling system by hand fingers gesture recognition.* [(demo)](https://www.youtube.com/watch?v=xYD6fA76y_g)
 
-#### B.s in Electronics and Telecommunications, Vietnam National University     Sep ’07 – Jun ‘11
+#### Sep ’07 – Jun ‘11: B.s in Electronics and Telecommunications, Vietnam National University     
 **Thesis**: *Building system measure and control using Power Line Communication technology, Standard Lonworks* [(demo)](https://www.youtube.com/watch?v=JJyp_-AzI58&feature=youtu.be)
 
 Publication
@@ -81,7 +93,7 @@ Publication
 Awards
 ======
 * 2017 --- **Encouragement Prize Award** in 4th Industrial Revolution Talen Cultivation Federation, Korea
-* 2016 --- **Third Prize Award** in [Wearable Computing Contest, KAIST, Korea]((http://www.ufcom.net/)
+* 2016 --- **Third Prize Award** in [Wearable Computing Contest, KAIST, Korea](http://www.ufcom.net/)
 * 2014 --- **Korean Government Scholarship Program**, [NIIED](http://www.niied.go.kr/eng/main.do)
 * 2011 --- **Encourage academic scholarship** of University of Engineering and Technology.
 * 2010 --- **Consolation prizes for research**, Vietnam National University, VNU.
